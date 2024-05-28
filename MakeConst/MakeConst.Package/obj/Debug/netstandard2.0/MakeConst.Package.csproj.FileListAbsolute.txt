@@ -1,0 +1,17 @@
+C:\Users\matve\source\repos\MakeConst\MakeConst\MakeConst.Package\bin\Debug\netstandard2.0\tools\install.ps1
+C:\Users\matve\source\repos\MakeConst\MakeConst\MakeConst.Package\bin\Debug\netstandard2.0\tools\uninstall.ps1
+C:\Users\matve\source\repos\MakeConst\MakeConst\MakeConst.Package\bin\Debug\netstandard2.0\MakeConst.Package.deps.json
+C:\Users\matve\source\repos\MakeConst\MakeConst\MakeConst.Package\bin\Debug\netstandard2.0\MakeConst.Package.dll
+C:\Users\matve\source\repos\MakeConst\MakeConst\MakeConst.Package\bin\Debug\netstandard2.0\MakeConst.Package.pdb
+C:\Users\matve\source\repos\MakeConst\MakeConst\MakeConst.Package\bin\Debug\netstandard2.0\MakeConst.CodeFixes.dll
+C:\Users\matve\source\repos\MakeConst\MakeConst\MakeConst.Package\bin\Debug\netstandard2.0\MakeConst.dll
+C:\Users\matve\source\repos\MakeConst\MakeConst\MakeConst.Package\bin\Debug\netstandard2.0\MakeConst.CodeFixes.pdb
+C:\Users\matve\source\repos\MakeConst\MakeConst\MakeConst.Package\bin\Debug\netstandard2.0\MakeConst.pdb
+C:\Users\matve\source\repos\MakeConst\MakeConst\MakeConst.Package\obj\Debug\netstandard2.0\MakeConst.Package.csproj.AssemblyReference.cache
+C:\Users\matve\source\repos\MakeConst\MakeConst\MakeConst.Package\obj\Debug\netstandard2.0\MakeConst.Package.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matve\source\repos\MakeConst\MakeConst\MakeConst.Package\obj\Debug\netstandard2.0\MakeConst.Package.AssemblyInfoInputs.cache
+C:\Users\matve\source\repos\MakeConst\MakeConst\MakeConst.Package\obj\Debug\netstandard2.0\MakeConst.Package.AssemblyInfo.cs
+C:\Users\matve\source\repos\MakeConst\MakeConst\MakeConst.Package\obj\Debug\netstandard2.0\MakeConst.Package.csproj.CoreCompileInputs.cache
+C:\Users\matve\source\repos\MakeConst\MakeConst\MakeConst.Package\obj\Debug\netstandard2.0\MakeCons.0D8FCEB6.Up2Date
+C:\Users\matve\source\repos\MakeConst\MakeConst\MakeConst.Package\obj\Debug\netstandard2.0\MakeConst.Package.dll
+C:\Users\matve\source\repos\MakeConst\MakeConst\MakeConst.Package\obj\Debug\netstandard2.0\MakeConst.Package.pdb
